@@ -65,9 +65,3 @@ Verify once and if all seems well, it's time to create actual remote infratuctur
 ```sh
 terraform apply
 ```
-
-## License
-
-MIT
-
-**Free Software, Hell Yeah!**
